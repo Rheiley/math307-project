@@ -1,5 +1,7 @@
 # MATH307 Project Question 2
 
+![](questions.png)
+
 Install the necessary dependencies by running the following command in the terminal:
 
 ```bash
