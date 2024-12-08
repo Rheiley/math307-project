@@ -1,4 +1,4 @@
-# MATH307 Project Question 2
+# MATH307 Project Question 2.2
 
 # Group 1
 
