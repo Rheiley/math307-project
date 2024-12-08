@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 Ensure your code editor is compatible with Jupyter Notebooks to run each cell.
 
-Expected Output:
+# Expected Output:
 ![](img/img_01.png)
 ![](img/img_02.png)
 ![](img/img_03.png)
